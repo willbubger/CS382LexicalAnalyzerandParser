@@ -1,0 +1,17 @@
+[expr
+   [term
+      [factor
+         [id [A]]
+      ]
+   ]
+   [+]
+   [term
+      [factor
+         [id [B]]
+      ]
+      [*]
+      [factor
+         [int_constant [100]]
+      ]
+   ]
+]

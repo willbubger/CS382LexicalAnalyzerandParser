@@ -1,0 +1,5 @@
+input 1: A + B
+
+input 2: A + B * 100
+
+input 3: A * (B + 100)
